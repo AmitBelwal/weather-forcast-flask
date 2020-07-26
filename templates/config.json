@@ -2,7 +2,7 @@
   "parameters":
   {
     "local_server": "True",
-    "local_uri": "mysql+pymysql://root:root@localhost/Weather",
+    "local_uri": "mysql+pymysql://database-1.cnaht9nkicvt.us-east-2.rds.amazonaws.com:3306/Weather",
     "fb_url": "https://facebook.com/blog",
     "tw_url": "https://twitter.com/blog",
     "git_url": "https://github.com/blog",
